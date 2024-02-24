@@ -46,7 +46,7 @@ function App() {
 			<Text
 				font='/press-start-2p-v15-latin-regular.woff'
 				fontSize={0.1}
-				position={[0, 0.8, 0]}>
+				position={[0, 1, 0]}>
 				Oops! Page not found!
 			</Text>
 
