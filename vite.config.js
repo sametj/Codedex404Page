@@ -7,4 +7,9 @@ export default defineConfig({
 	publicDir: "../public",
 	base: "./",
 	plugins: [react()],
+	build: {
+		outDir: "../dist",
+		emptyOutDir: true,
+		sourcemap: true,
+	},
 });
