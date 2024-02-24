@@ -1,8 +1,8 @@
 # Codedex's February 404 page Challenge
  Created in collaboration with Yumi.
 
- UI designed by Yumi
- Coded by Teejay
+ - UI designed by Yumi
+ - Coded by Teejay
 
 # Tech
  - React three fiber
